@@ -1,0 +1,48 @@
+body {
+    background-color: #18191C;
+  }
+  
+  .main {
+    width: 50%;
+    margin: auto;
+  }
+  
+  h1 {
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 3em;
+  }
+  
+  p {
+    color: #A1A3A4;
+    font-size: 1.3em;
+  }
+  
+  #image {
+    float: left;
+    margin-right: 1em;
+    margin-bottom: 1em;
+    max-width: 260px;
+    height: auto;
+    display: block;
+  }
+
+  #description {
+    text-align: center;
+  }
+  
+  hr {
+    width: 50%;
+  }
+  
+  #img-div {
+    margin: auto;
+  }
+
+  .timeline {
+    margin: auto;
+  }
+
+  #tribute-link {
+    color: rgb(45, 150, 248);
+  }
